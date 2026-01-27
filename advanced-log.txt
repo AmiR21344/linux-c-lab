@@ -1,0 +1,15 @@
+=== Advanced Log Tue Jan 27 05:32:10 UTC 2026 ===
+total 36K
+-rw-rw-rw-  1 codespace codespace   50 Jan 27 05:32 advanced-log.txt
+drwxrwxrwx+ 4 codespace root      4.0K Jan 27 05:14 .
+drwxrwxrwx+ 8 codespace root      4.0K Jan 27 05:08 .git
+-rw-rw-rw-  1 codespace codespace    2 Jan 27 04:58 intermediate-log.txt
+-rw-rw-rw-  1 codespace codespace  333 Jan 27 04:52 files.txt
+-rw-------  1 codespace codespace    0 Jan 27 04:47 secret.txt
+drwxrwxrwx+ 2 codespace codespace 4.0K Jan 19 00:01 command-line-easy
+-rw-rw-rw-  1 codespace codespace   13 Jan 18 23:54 hello-copy.txt
+drwxr-xrwx+ 5 codespace root      4.0K Jan 18 23:32 ..
+-rw-rw-rw-  1 codespace root        13 Jan 18 23:32 README.md
+=== File Counts ===
+Files: 15
+428K	.
