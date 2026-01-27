@@ -1,0 +1,6 @@
+total 12
+-rw-rw-rw-  1 codespace root        13 Jan 18 23:32 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 Jan 19 00:01 command-line-easy
+-rw-rw-rw-  1 codespace codespace    0 Jan 27 04:52 files.txt
+-rw-rw-rw-  1 codespace codespace   13 Jan 18 23:54 hello-copy.txt
+-rw-------  1 codespace codespace    0 Jan 27 04:47 secret.txt
