@@ -1,0 +1,12 @@
+pwd show current directory
+ls list files
+cd command line 
+mkdir make directory
+touch add file 
+nano text editor
+cp copy 
+mv move
+rm remove
+cat cocatenate
+man manual 
+echo display text
